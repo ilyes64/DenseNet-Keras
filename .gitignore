@@ -1,3 +1,9 @@
+#vs code repository
+.vscode
+
+#imagenet models
+imagenet_models/*.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
